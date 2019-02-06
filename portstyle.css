@@ -1,11 +1,10 @@
 body {
-	background-image: url("Image/bg.jpg");
 	background-size: cover;
 	background-position: center;
 	font-family: 'Josefin Sans', sans-serif;
 	background-repeat: no-repeat;
 	background-color: #101010;
-	
+	background-image: url("Image/bg.jpg");	
 }
 html{
 	height: 100%;
@@ -55,6 +54,7 @@ html{
 	padding-top: 0px;
 	font-size: 2rem;
 	color: white;
+	text-shadow: 2px 2px 4px #000000;
 	margin-top: 0px;
 	margin-bottom: 200px;
 	text-align: center;
@@ -62,6 +62,7 @@ html{
 #hi{
 	font-size: 4.5rem;
 	color: white;
+	text-shadow: 2px 2px 4px #000000;
 	margin-top: 200px;
 	margin-bottom: 0px;
 	text-align: center;
